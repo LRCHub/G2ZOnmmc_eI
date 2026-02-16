@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はうとぅアニオタ！",
+  "base_artist": "久遠たま",
+  "createdAt": "2026-02-16T05:01:59.752631Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はうとぅアニオタ!",
+      "artist": "久遠たま",
+      "has_synced": false,
+      "path": "select/pl_01_はうとぅアニオタ!_久遠たま.txt"
+    }
+  ]
+}
